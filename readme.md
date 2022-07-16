@@ -1,1 +1,1 @@
-## Snowflake Fundamentals 4-Day by Jarrod Johnson.
+## Snowflake Fundamentals 4-Day by Jarrod Johnson
